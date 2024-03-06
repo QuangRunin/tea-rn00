@@ -1,0 +1,9 @@
+{
+  "name": "@quangrunin/tea-rn00",
+  "version": "1.0.1",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@quangrunin",
+  "repository": "https://github.com/QuangRunin/tea-rn00.git",
+  "license": "ISC"
+}
